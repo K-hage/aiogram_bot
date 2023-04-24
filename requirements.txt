@@ -1,0 +1,4 @@
+aiogram
+envparse
+marshmallow_dataclass
+beautifulsoup4
