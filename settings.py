@@ -14,7 +14,6 @@ COMMANDS = [
     '/help',
     '/weather',
     '/weather <Населенный пункт>',
-    '/currency',
     '/cuteanimals',
 ]
 
